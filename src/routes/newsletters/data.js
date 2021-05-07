@@ -2,6 +2,31 @@ export const sendicatePath = `https://www.sendicate.net/m/`
 
 export const newsletters = [
   {
+    title: `Ergonomics is more valuable to society than Economics`,
+    date: `2020-12-11`,
+    slug: '7waehv',
+  },
+  {
+    title: `Have you ever seen the Grinch and Putin in the same place?`,
+    date: `2020-11-27`,
+    slug: `53dy8z`
+  },
+  {
+    title: `Jeffrey Toobin Resignation Letter`,
+    date: `2020-11-13`,
+    slug: `ct7pfg`,
+  },
+  {
+    title: `The Secret Ingredient is Crime`,
+    date: `2020-10-30`,
+    slug: `9yraqg`,
+  },
+  {
+    title: `Periwinkle`,
+    date: `2020-10-16`,
+    slug: `4uqxsi`,
+  },
+  {
     title: `Cover Me In Leeches and Perform the Blood Ritual`,
     date: `2020-10-02`,
     slug: `4p4l2m`,

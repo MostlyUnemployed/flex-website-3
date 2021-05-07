@@ -1,5 +1,88 @@
 export const data = [
   {
+    name: "Chainflip",
+    links: [
+      {
+        link: "https://chainflip.io",
+        text: "Check out the website"
+      }
+    ],
+    overview: "Next-gen cross chain DEX. Direct L1 -> L1 swaps. No accounts.",
+    logo: `
+    .::////////////:::::--.\`
+    .///////////////////////:-\`
+    .//////////////////////////:.
+    .////////////////////////////:.
+    .//////////////////////////////:.
+    .////////////:::::::::::::::::::::.\`
+    .///////////:                      ::\`
+    .///////////:                      :++:\`
+    .///////////-                      :++++:.
+    .///////////-                      :++++++/.
+      ://////////-                      :++++++++/\`
+      \`://///////-                      :+++++++++/\`
+      \`:////////-                      :++++++++++/
+        .://////-                      :+++++++++++.
+          \`-////-                      :+++++++++++-
+            \`-//-                      :+++++++++++-
+              \`--                      :+++++++++++-
+                  -/////////////////////++++++++++++-
+                  \`-/++++++++++++++++++++++++++++++-
+                      ./++++++++++++++++++++++++++++-
+                        ./++++++++++++++++++++++++++-
+                          .:/+++++++++++++++++++++++-
+                            \`-:://////////////+++//-
+    `,
+    description: [
+      "Chainflip is a decentralised L1 -> L1 exchange, without any notion of accounts, balances, or special wallets. Get a quote, send your coins, receive the result. It's that simple."
+    ]
+  },
+  {
+    name: "Gantree",
+    links: [
+      {
+        link: "https://gantree.io",
+        text: "Check out the website"
+      }
+    ],
+    overview: "Scalable telemetry + monitoring for blockchain nodes.",
+    logo: `
+    ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-
+    hMNssssssssssssssssssssssssssssssssssssssssssshMM/
+    hMN                                           :MM/
+    hMN                                           :MM/
+    hMN                                           :MM/
+    hMMdddddddddddddddddddddddddddddddddddddddddddmMM/
+    hMNssssssssssssssssssssdMMssssssssssssssssssssyMM/
+    hMN                    oMM.                   :MM/
+    hMN                    oMM.                   :MM/
+    hMN                    oMM.                   :MM/
+    hMN                   \`sMM:.\`                 :MM/
+    hMN               -+ydmNMMNNmds:\`             :MM/
+    hMN            \`/dNNhs+:---:ohNNd:            :MM/
+    hMN           -dMmo.\`         .-.\`            :MM/
+    hMN          -mMd.                            :MM/
+    hMN          dMN.            \`.-:oyds         :MM/
+    hMN         -MMy        .-/oydmNNmNMN\`        :MM/
+    hMN         :MMy       \`dNNmhs+:-\`sMM:        :MM/
+    hMN         \`NMN.       -:.\`      sMM.        :MM/
+    hMN          oMMh\`               .NMd         :MM/
+    hMN           sNMd-             :mMm.         :MM/
+    hMN            /mMNy:\`\`     \`./hNNy.          :MM/
+    hMN             \`/hNNNdyysyhdNNms-            :MM/
+    hMN                .:+syhhhyo/-               :MM/
+    hMN                                           :MM/
+    hMN                                           :MM/
+    hMN                                           :MM/
+    hMN                                           :MM/
+    hMNssssssssssssssssssssssssssssssssssssssssssshMM/
+    sdddddddddddddddddddddddddddddddddddddddddddddddd:
+ `,
+    description: [
+      "Gantree is the easy monitoring and alerts platform for your blockchain nodes. Node operators need enterprise grade monitoring tools in a market where software errors might cost them money."
+    ]
+  },
+  {
     name: "Maple Finance",
     links: [
       {
@@ -7,7 +90,7 @@ export const data = [
         text: "Check out their website"
       }
     ],
-    overview: "SmartBonds for the new world of finance",
+    overview: "SmartBonds for the new world of finance.",
     logo: `
 
 
@@ -45,7 +128,7 @@ export const data = [
         text: "Check out their website"
       }
     ],
-    overview: "A decentralised platform for risk minimised stable assets",
+    overview: "A decentralised platform for risk minimised stable assets.",
     logo: `
 
        ////////    /oossso+/         +oossoo/
@@ -83,7 +166,7 @@ export const data = [
         text: "Check out the app"
       }
     ],
-    overview: "The instant crypto payment gateway for digital content",
+    overview: "The instant crypto payment gateway for digital content.",
     logo: `
 
 
