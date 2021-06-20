@@ -160,8 +160,8 @@ export const data = [
     label: 'Violent Artist',
     url: '/img/team/violent.png',
     name: 'Denver Pallis',
-    codeName: `['Violent Artist']`,
-    position: "['Soldier', 'Web3 Product Engineer']",
+    codeName: "['Violent Artist', 'Metric Mage']",
+    position: "['Soldier', 'Web3 Product Lead', 'Web3 Product Engineer']",
     skills: "['DevOps', 'Software Architecture', 'Hacking']",
     special: [
       {
